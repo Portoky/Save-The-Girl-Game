@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Szakvizsga.vcxproj -> D:\Szakvizsga\Szakvizsga program\x64\Release\Szakvizsga.exe

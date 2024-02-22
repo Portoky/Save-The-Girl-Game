@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\Szakvizsga\SDL2\SDL2_Image\include\SDL_image.h(27,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
